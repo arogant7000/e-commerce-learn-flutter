@@ -25,9 +25,12 @@ class _HomePageState extends State<HomePage> {
           AssetImage('images/c2.jpg'),
           AssetImage('images/c3.jpg')
         ],
-        autoplay: false,
-        // animationCurve: Curves.fastOutSlowIn,
-        // animationDuration: Duration(milliseconds: 1000),
+        autoplay: true,
+        animationCurve: Curves.fastOutSlowIn,
+        animationDuration: Duration(milliseconds: 1000),
+        dotSize: 4.0,
+        indicatorBgPadding: 2.0,
+        dotColor: Colors.red,
       ),
     );
 
