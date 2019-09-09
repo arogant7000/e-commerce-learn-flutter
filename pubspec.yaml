@@ -44,9 +44,28 @@ flutter:
   #  - images/a_dot_ham.jpeg
 
   assets:
-    - images/c1.jpg
-    - images/c2.jpeg
-    - images/c3.jpg
+    - images/c1.jpeg
+    - images/c2.png
+    - images/c4.jpg
+    - images/cats/tshirt.png
+    - images/cats/accessories.png
+    - images/cats/dress.png
+    - images/cats/formal.png
+    - images/cats/informal.png
+    - images/cats/jeans.png
+    - images/cats/shoe.png
+    - images/products/blazer1.jpeg
+    - images/products/blazer2.jpeg
+    - images/products/dress1.jpeg
+    - images/products/dress2.jpeg
+    - images/products/hills1.jpeg
+    - images/products/hills2.jpeg
+    - images/products/pants1.jpg
+    - images/products/pants2.jpeg
+    - images/products/shoe1.jpg
+    - images/products/skt1.jpeg
+    - images/products/skt2.jpeg
+
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
   # For details regarding adding assets from package dependencies, see
